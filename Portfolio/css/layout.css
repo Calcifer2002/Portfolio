@@ -1,11 +1,7 @@
-
-            /* box sizing */
-
-            * {
-                box-sizing: border-box;
-            }
-
-            /* element styling (e.g. standard p, h1, h2, a, etc) */
+* {
+   box-sizing: border-box;
+  }
+/* element styling (e.g. standard p, h1, h2, a, etc) */
 
             html {
                 scroll-behavior: smooth;
